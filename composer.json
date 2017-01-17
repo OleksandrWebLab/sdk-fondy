@@ -1,0 +1,26 @@
+{
+    "name": "popcornphp/fondy",
+    "description": "Library for using API of fondy.eu",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Shapoval",
+            "email": "popcornphp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PopcornPHP\\Fondy\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
