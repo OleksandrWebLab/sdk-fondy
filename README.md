@@ -9,7 +9,7 @@ https://github.com/cloudipsp/ipsp-php
 
 ## Installation
 ```cmd
-composer require popcornphp/sdk-fondy
+composer require popcornphp/fondy
 ```
 
 ## Quick Start
